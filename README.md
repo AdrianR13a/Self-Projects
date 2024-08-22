@@ -1,2 +1,2 @@
 # Self-Projects
-Projects I found online or completed on my own
+Projects where i found interest and wanted to complete to learn and gain experience
